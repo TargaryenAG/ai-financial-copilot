@@ -9,6 +9,13 @@
   ![License](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)
 </div>
 
+## 📸 Screenshot
+
+<div align="center">
+  <img src="./docs/preview.png" alt="AI Financial Copilot" width="100%"/>
+  <p><em>Tela de upload — arraste seu CSV e deixe o Claude analisar suas finanças</em></p>
+</div>
+
 ## ✨ Features
 - 📁 **CSV Upload** — Drag-and-drop support, auto-detects Nubank/Inter/generic formats
 - 🤖 **AI Categorization** — Claude AI automatically categorizes each transaction into 9 categories
